@@ -4,6 +4,7 @@ Repository contains Templates and other supporting material for the project popo
 
 You have to use the files present in the Templates folder.
 
+## Submission Guidelines
 **Please follow the following naming convention when submitting your files on Google Drive**.  
 - If your group is 09 then Group09_SE_ProposalTemplate_Spring2021.doc and Group09_SE_ProposalTemplate_Spring2021.pdf etc.
 
